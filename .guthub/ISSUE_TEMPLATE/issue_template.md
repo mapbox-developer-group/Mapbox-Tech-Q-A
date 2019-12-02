@@ -1,3 +1,8 @@
+---
+name: Mapbox 技术问题提问模版
+about: 提问请使用这个模版哦，才会有技术小伙伴回答你的问题
+---
+
 <!-- 请按照下面的格式，说明自己问题并贴上截图，方便更快地获得答案哦。如果希望更快获得答案，可以参考 readme 文件中的内容：https://github.com/mapbox-developer-group/Mapbox-Tech-Q-A/blob/master/README.md -->
 
 ## 我遇到的问题
